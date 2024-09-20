@@ -1,0 +1,128 @@
+body {
+    margin: 50px;
+    padding: 30px;
+    border: 2px black solid;
+    border-radius: 20px;
+    height: 800px;
+    width: 700px;
+
+}
+
+header{
+    text-align: center;
+}
+
+main { 
+    padding: 40px;
+    padding-top: 100px;
+    position: relative;
+
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    font-size:larger;
+    line-height: 50px;
+}
+
+.list1{
+    color: rgb(90, 90, 90);
+    display: flex;
+    flex-direction: column;
+    float: left;
+    font-size:larger;
+    line-height: 50px;
+    
+}
+
+.blackdot1 {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top: 115px;
+    
+}
+
+.blackdot2 {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top: 165px;
+}
+
+.blackdot3 {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top: 215px;
+}
+
+.blackdot4 {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top:265px;
+}
+
+.blackdot5 {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top: 315px;
+}
+
+.blackdot6 {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top: 365px;
+    
+}
+
+.blackdot7 {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+    position: absolute;
+    left: 230px;
+    top: 415px;
+    
+}
+
+.bar {
+    border-left: 3px black solid;
+    height: 380px;
+    position: absolute;
+    left: 240px;
+}
+
+.btn {
+    color: antiquewhite;
+    background-color: black;
+    position: absolute;
+    top: 780px;
+    height: 50px;
+    border: 2px black solid;
+    border-radius: 10px;
+}
