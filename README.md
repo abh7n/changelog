@@ -1,5 +1,8 @@
 # Changelog
 
+![Image description](changelog.png)
+
+
 A responsive and customizable changelog component built using HTML and CSS.
 
 ## Features
